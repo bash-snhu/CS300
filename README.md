@@ -3,7 +3,7 @@ CS300 Course Repository
 
 ## What was the problem you were solving in the projects for this course?
 
-The problem presented in the projects for this course was the selection of data structures based on the application or problem to be solved. We were given a specific scenario with specific data and needs, and we were then tasked to find an appropriate solution to fit that application.
+The problem presented in the projects for this course was the nuanced selection of data structures based on the application or problem to be solved. We were given a specific scenario with specific data and needs, and we were then tasked to find an appropriate and efficient solution to fit that application.
 
 ## How did you approach the problem? Consider why data structures are important to understand.
 
